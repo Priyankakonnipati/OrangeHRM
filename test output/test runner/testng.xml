@@ -5,13 +5,13 @@
 	  <parameter name="Browser" value="Chrome"></parameter>
 		<classes>
 			
-			<class name="firstTest.login" />
-			<class name="firstTest.Setup" />
-			<class name="firstTest.PersonalDetails" />
-			<class name="firstTest.ContactDetails" />
-			<class name="firstTest.Dependents" />
-			<class name="firstTest.EmergencyContact" />
-			<class name="firstTest.Immigration" />
+			<class name="myInfo.login" />
+			<class name="myInfo.Setup" />
+			<class name="myInfo.PersonalDetails" />
+			<class name="myInfo.ContactDetails" />
+			<class name="myInfo.Dependents" />
+			<class name="myInfo.EmergencyContact" />
+			<class name="myInfo.Immigration" />
 		</classes>
 	</test> <!--
 	Test -->
